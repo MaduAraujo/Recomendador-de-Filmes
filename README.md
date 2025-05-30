@@ -97,7 +97,7 @@ Imaginamos que cada filme é uma "seta" (ou vetor) apontando para algum lugar em
 #### Por que usamos isso?
 Porque é uma forma matemática de comparar os textos, mesmo que eles tenham tamanhos diferentes.
 
-#### Resumindo:
+### Resumindo:
 
 1. **TF-IDF**: transforma o texto em números, destacando as palavras importantes.
 2. **Similaridade Cosseno**: compara esses números para ver **quais textos (filmes) são parecidos**.
