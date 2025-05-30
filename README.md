@@ -119,3 +119,10 @@ Esta tabela apresenta uma comparação rápida entre dois tipos principais de si
 Sistemas de recomendação são fundamentais na era digital, atuando como guias personalizados que ajudam usuários a descobrir novos conteúdos com base em suas preferências e comportamentos. 
 Plataformas como Netflix, Amazon e Spotify se tornaram referência ao combinar diferentes abordagens para oferecer experiências altamente personalizadas.
 O conhecimento sobre essas técnicas é essencial para quem trabalha com ciência de dados, inteligência artificial, análise de comportamento do consumidor e desenvolvimento de plataformas digitais.
+
+---
+
+## ✅ Recursos adicionais
+
+- [Documentação do `pandas`](https://pandas.pydata.org/docs/)
+- [Documentação do `scikit-learn`](https://scikit-learn.org/stable/)
